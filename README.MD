@@ -1,4 +1,4 @@
-> [!WARNING]
+> [!NOTE]
 > **The "AboutMe" repo is under construction! Soon i will finish this file.**
 
 ## Who am i?
