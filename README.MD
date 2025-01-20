@@ -1,6 +1,3 @@
-> [!NOTE]
-> **The "AboutMe" repo is under construction! Soon i will finish this file.**
-
 ## Who am i?
 - I am **Stanislav**, self-taught junior _Python_ developer.
 - I study **AI**: _LLM, Datasets, and etc_.
